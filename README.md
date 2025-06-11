@@ -18,14 +18,11 @@ Simon is a classic electronic memory game where the player repeats a growing seq
 
 ![Simon Game Screenshot](screenshot.png)
 
-> 📷 Tip: Add a screenshot of your game named `screenshot.png` to your project folder.
-
 ## 🚀 Live Demo
 
-Play it live on GitHub Pages:  
-[https://yourusername.github.io/simon-game](https://yourusername.github.io/simon-game)
+Play it live here:  
+https://simon-game-rho-nine.vercel.app/
 
-> 🌐 Replace the link above with your actual GitHub Pages link after publishing.
 
 ## 👨‍💻 Built With
 
@@ -38,7 +35,7 @@ Play it live on GitHub Pages:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simon-game.git
+   git clone https://github.com/nehhy01/simon-game.git
 2. Open index.html in your web browser.
 
 3. Enjoy the game and challenge your memory!
